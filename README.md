@@ -1,4 +1,4 @@
-# Image-Dehazing
+# Color Cast Dependent Image Dehazing via Adaptive Airlight Refinement and Non-linear Color Balancing
 
  -----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------
 
