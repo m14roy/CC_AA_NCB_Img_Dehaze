@@ -22,7 +22,7 @@
 % The authors are with Dept. of Electronics and Electrical Communication Engineering, 
 % Indian Institute of Technology, Kharagpur, India.
 % 
-% Kindly report any suggestions or corrections to dhara.sk@gmail.com
+% Kindly report any suggestions or corrections to dhara.sk[at]gmail[dot]com
 % 
 % ========================================================================
 % 
